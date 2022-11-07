@@ -1,2 +1,3 @@
-# table-logging-builder
-Adds audit columns to established tables based on logging packages
+# Table Logging Builder
+
+Python script to generate sql for adding trigger-based per-table logging to a schema

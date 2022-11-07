@@ -1,0 +1,7 @@
+*.log
+TRIGGERS
+TABLES
+tables.csv
+build
+buildExe.cmd
+table-logging-builder.spec
